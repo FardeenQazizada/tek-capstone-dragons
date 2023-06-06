@@ -69,6 +69,7 @@ public class RetailOrderPage extends BaseSetup {
 	@FindBy(xpath = "//div[@class='order']")
 	public List <WebElement> orderList;
 	
+	
 	@FindBy(xpath= "(//p[contains(text(),'Show Details')])")
 	public List<WebElement> showDetailList;
 	
@@ -77,6 +78,7 @@ public class RetailOrderPage extends BaseSetup {
 	
 	@FindBy(xpath ="(//span[contains(text(),'Delete')])")
 	public List<WebElement> orderCartItemsDeleteBtn;
+
 	
 	@FindBy(xpath="(//input[@type='checkbox'])")
 	public List<WebElement> orderReturnCheckbox;

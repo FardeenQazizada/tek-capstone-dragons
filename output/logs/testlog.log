@@ -341,3 +341,26 @@
 2023-06-06 18:21:26,060 - logger_File -INFO - User Clicked on account button
 2023-06-06 18:21:26,339 - logger_File -INFO - User clicked on address remove button
 2023-06-06 18:21:26,339 - logger_File -INFO - User removed Address Details
+2023-06-06 18:40:37,106 - logger_File -INFO - User is on retail website
+2023-06-06 18:40:37,118 - logger_File -INFO - Actual Title: React App = Expected Title: React App
+2023-06-06 18:40:37,760 - logger_File -INFO - User clicked on signin button
+2023-06-06 18:40:38,630 - logger_File -INFO - This is the email user entered: fardeenTester@tekschool.com , This is the password user enterd: Fardeen@123
+2023-06-06 18:40:38,938 - logger_File -INFO - User clicked on login button
+2023-06-06 18:40:39,084 - logger_File -INFO - User is logged into account
+2023-06-06 18:40:39,472 - logger_File -INFO - User Clicked on orders section
+2023-06-06 18:40:40,870 - logger_File -INFO - User Clicked on Return button
+2023-06-06 18:40:41,152 - logger_File -INFO - User selected the return reson
+2023-06-06 18:40:41,407 - logger_File -INFO - User selected the drop off service
+2023-06-06 18:40:41,918 - logger_File -INFO - User clicked on return order button
+2023-06-06 18:50:53,025 - logger_File -INFO - User is on retail website
+2023-06-06 18:50:53,061 - logger_File -INFO - Actual Title: React App = Expected Title: React App
+2023-06-06 18:50:53,662 - logger_File -INFO - User clicked on signin button
+2023-06-06 18:50:54,596 - logger_File -INFO - This is the email user entered: fardeenTester@tekschool.com , This is the password user enterd: Fardeen@123
+2023-06-06 18:50:54,906 - logger_File -INFO - User clicked on login button
+2023-06-06 18:50:55,164 - logger_File -INFO - User is logged into account
+2023-06-06 18:50:55,517 - logger_File -INFO - User Clicked on orders section
+2023-06-06 18:50:57,328 - logger_File -INFO - User Clicked on Return button
+2023-06-06 18:50:57,634 - logger_File -INFO - User selected the return reson
+2023-06-06 18:50:57,952 - logger_File -INFO - User selected the drop off service
+2023-06-06 18:50:58,247 - logger_File -INFO - User clicked on return order button
+2023-06-06 18:50:58,281 - logger_File -INFO - Return was successful

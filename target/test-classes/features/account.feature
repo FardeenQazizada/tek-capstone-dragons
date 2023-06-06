@@ -25,7 +25,7 @@ Feature: TEK Retail Account feature
     And User click on Account option
     And User enter below information
       | previousPassword | newPassword | confirmPassword |
-      | Tek@12345       | Te1@12345   | Tek1@12345       |
+      | Tek@12345       | Tek1@12345   | Tek1@12345       |
     And User click on Change Password button
     Then a message should be displayed ‘Password Updated Successfully’
 
