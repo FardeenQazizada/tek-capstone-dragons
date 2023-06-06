@@ -73,6 +73,7 @@ Feature: TEK Retail Account feature
     Then payment details should be removed
 
   #6 Passed
+ 
   Scenario: Verify User can add an Address
     Given User is on retail website
     When User click on Sign in option
@@ -88,6 +89,7 @@ Feature: TEK Retail Account feature
     Then a message should be displayed ‘Address Added Successfully’
 
   #7 Passed
+ 
   Scenario: Verify User can edit an Address added on account
     Given User is on retail website
     When User click on Sign in option
@@ -103,6 +105,7 @@ Feature: TEK Retail Account feature
     Then a message should be displayed ‘Address Updated Successfully’
 
   #8 Passed
+ 
   Scenario: Verify User can remove Address from Account
     Given User is on retail website
     When User click on Sign in option

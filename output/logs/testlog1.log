@@ -223,3 +223,121 @@
 2023-06-06 13:21:16,842 [main] INFO logger_File - User passed the new info
 2023-06-06 13:21:16,968 [main] INFO logger_File - User clicked on tchange account button
 2023-06-06 13:21:17,916 [main] INFO logger_File - Password is updated successfuly
+2023-06-06 18:17:17,439 [main] INFO logger_File - User is on retail website
+2023-06-06 18:17:17,515 [main] INFO logger_File - Actual Title: React App = Expected Title: React App
+2023-06-06 18:17:18,120 [main] INFO logger_File - User clicked on signin button
+2023-06-06 18:17:18,836 [main] INFO logger_File - This is the email user entered: fardeenTester@tekschool.com , This is the password user enterd: Fardeen@123
+2023-06-06 18:17:19,056 [main] INFO logger_File - User clicked on login button
+2023-06-06 18:17:19,289 [main] INFO logger_File - User is logged into account
+2023-06-06 18:17:21,252 [main] INFO logger_File - User Clicked on account button
+2023-06-06 18:17:21,570 [main] INFO logger_File - User clicked on add payment method
+2023-06-06 18:17:23,714 [main] INFO logger_File - User filled the account information
+2023-06-06 18:17:23,841 [main] INFO logger_File - User Clicked on add card button
+2023-06-06 18:17:24,614 [main] INFO logger_File - User has added a Payment Method Successfuly
+2023-06-06 18:17:32,467 [main] INFO logger_File - User is on retail website
+2023-06-06 18:17:32,468 [main] INFO logger_File - Actual Title: React App = Expected Title: React App
+2023-06-06 18:17:32,797 [main] INFO logger_File - User clicked on signin button
+2023-06-06 18:17:33,564 [main] INFO logger_File - This is the email user entered: fardeenTester@tekschool.com , This is the password user enterd: Fardeen@123
+2023-06-06 18:17:33,678 [main] INFO logger_File - User clicked on login button
+2023-06-06 18:17:34,058 [main] INFO logger_File - User is logged into account
+2023-06-06 18:17:34,334 [main] INFO logger_File - User Clicked on account button
+2023-06-06 18:17:34,690 [main] INFO logger_File - User clicked chose the card and clicked on edit
+2023-06-06 18:17:35,699 [main] INFO logger_File - User edited and updated the payment information
+2023-06-06 18:17:35,862 [main] INFO logger_File - User clicked on update card button
+2023-06-06 18:17:35,942 [main] INFO logger_File - User payment method is updated successfuly
+2023-06-06 18:17:43,188 [main] INFO logger_File - User is on retail website
+2023-06-06 18:17:43,189 [main] INFO logger_File - Actual Title: React App = Expected Title: React App
+2023-06-06 18:17:43,561 [main] INFO logger_File - User clicked on signin button
+2023-06-06 18:17:44,396 [main] INFO logger_File - This is the email user entered: fardeenTester@tekschool.com , This is the password user enterd: Fardeen@123
+2023-06-06 18:17:44,516 [main] INFO logger_File - User clicked on login button
+2023-06-06 18:17:44,989 [main] INFO logger_File - User is logged into account
+2023-06-06 18:17:45,251 [main] INFO logger_File - User Clicked on account button
+2023-06-06 18:17:45,284 [main] INFO logger_File - This is users current card count: 3
+2023-06-06 18:17:45,864 [main] INFO logger_File - User clicked on remove card button
+2023-06-06 18:17:45,883 [main] INFO logger_File - This is Users card count after removal: 3
+2023-06-06 18:17:45,884 [main] INFO logger_File - User payment details is removed
+2023-06-06 18:17:51,689 [main] INFO logger_File - User is on retail website
+2023-06-06 18:17:51,695 [main] INFO logger_File - Actual Title: React App = Expected Title: React App
+2023-06-06 18:17:52,169 [main] INFO logger_File - User clicked on signin button
+2023-06-06 18:17:52,868 [main] INFO logger_File - This is the email user entered: fardeenTester@tekschool.com , This is the password user enterd: Fardeen@123
+2023-06-06 18:17:52,980 [main] INFO logger_File - User clicked on login button
+2023-06-06 18:17:53,298 [main] INFO logger_File - User is logged into account
+2023-06-06 18:17:54,388 [main] INFO logger_File - User Clicked on account button
+2023-06-06 18:17:54,701 [main] INFO logger_File - User clicked on Add Address button
+2023-06-06 18:17:57,222 [main] INFO logger_File - User filled the address info
+2023-06-06 18:17:57,514 [main] INFO logger_File - User clicked on add address button
+2023-06-06 18:17:58,167 [main] INFO logger_File - User Successfuly added Address
+2023-06-06 18:18:03,616 [main] INFO logger_File - User is on retail website
+2023-06-06 18:18:03,617 [main] INFO logger_File - Actual Title: React App = Expected Title: React App
+2023-06-06 18:18:03,889 [main] INFO logger_File - User clicked on signin button
+2023-06-06 18:18:04,615 [main] INFO logger_File - This is the email user entered: fardeenTester@tekschool.com , This is the password user enterd: Fardeen@123
+2023-06-06 18:18:04,729 [main] INFO logger_File - User clicked on login button
+2023-06-06 18:18:05,322 [main] INFO logger_File - User is logged into account
+2023-06-06 18:18:05,762 [main] INFO logger_File - User Clicked on account button
+2023-06-06 18:18:06,186 [main] INFO logger_File - User clicked on address edit button
+2023-06-06 18:18:08,477 [main] INFO logger_File - User filled the address info
+2023-06-06 18:18:08,622 [main] INFO logger_File - User clicked on update button
+2023-06-06 18:19:34,142 [main] INFO logger_File - User is on retail website
+2023-06-06 18:19:34,149 [main] INFO logger_File - Actual Title: React App = Expected Title: React App
+2023-06-06 18:19:34,902 [main] INFO logger_File - User clicked on signin button
+2023-06-06 18:19:36,017 [main] INFO logger_File - This is the email user entered: fardeenTester@tekschool.com , This is the password user enterd: Fardeen@123
+2023-06-06 18:19:36,342 [main] INFO logger_File - User clicked on login button
+2023-06-06 18:19:36,477 [main] INFO logger_File - User is logged into account
+2023-06-06 18:19:36,963 [main] INFO logger_File - User Clicked on account button
+2023-06-06 18:19:37,313 [main] INFO logger_File - User clicked on add payment method
+2023-06-06 18:19:38,864 [main] INFO logger_File - User filled the account information
+2023-06-06 18:19:39,151 [main] INFO logger_File - User Clicked on add card button
+2023-06-06 18:19:39,758 [main] INFO logger_File - User has added a Payment Method Successfuly
+2023-06-06 18:19:56,932 [main] INFO logger_File - User is on retail website
+2023-06-06 18:19:56,932 [main] INFO logger_File - Actual Title: React App = Expected Title: React App
+2023-06-06 18:19:57,612 [main] INFO logger_File - User clicked on signin button
+2023-06-06 18:19:58,731 [main] INFO logger_File - This is the email user entered: fardeenTester@tekschool.com , This is the password user enterd: Fardeen@123
+2023-06-06 18:19:59,060 [main] INFO logger_File - User clicked on login button
+2023-06-06 18:19:59,308 [main] INFO logger_File - User is logged into account
+2023-06-06 18:19:59,907 [main] INFO logger_File - User Clicked on account button
+2023-06-06 18:20:01,164 [main] INFO logger_File - User clicked chose the card and clicked on edit
+2023-06-06 18:20:01,950 [main] INFO logger_File - User edited and updated the payment information
+2023-06-06 18:20:02,269 [main] INFO logger_File - User clicked on update card button
+2023-06-06 18:20:02,337 [main] INFO logger_File - User payment method is updated successfuly
+2023-06-06 18:20:18,073 [main] INFO logger_File - User is on retail website
+2023-06-06 18:20:18,083 [main] INFO logger_File - Actual Title: React App = Expected Title: React App
+2023-06-06 18:20:18,593 [main] INFO logger_File - User clicked on signin button
+2023-06-06 18:20:19,417 [main] INFO logger_File - This is the email user entered: fardeenTester@tekschool.com , This is the password user enterd: Fardeen@123
+2023-06-06 18:20:19,701 [main] INFO logger_File - User clicked on login button
+2023-06-06 18:20:19,858 [main] INFO logger_File - User is logged into account
+2023-06-06 18:20:20,301 [main] INFO logger_File - User Clicked on account button
+2023-06-06 18:20:20,531 [main] INFO logger_File - This is users current card count: 3
+2023-06-06 18:20:21,644 [main] INFO logger_File - User clicked on remove card button
+2023-06-06 18:20:21,652 [main] INFO logger_File - This is Users card count after removal: 2
+2023-06-06 18:20:21,652 [main] INFO logger_File - User payment details is removed
+2023-06-06 18:20:37,731 [main] INFO logger_File - User is on retail website
+2023-06-06 18:20:37,732 [main] INFO logger_File - Actual Title: React App = Expected Title: React App
+2023-06-06 18:20:38,359 [main] INFO logger_File - User clicked on signin button
+2023-06-06 18:20:39,549 [main] INFO logger_File - This is the email user entered: fardeenTester@tekschool.com , This is the password user enterd: Fardeen@123
+2023-06-06 18:20:39,832 [main] INFO logger_File - User clicked on login button
+2023-06-06 18:20:39,983 [main] INFO logger_File - User is logged into account
+2023-06-06 18:20:40,417 [main] INFO logger_File - User Clicked on account button
+2023-06-06 18:20:40,891 [main] INFO logger_File - User clicked on Add Address button
+2023-06-06 18:20:46,110 [main] INFO logger_File - User filled the address info
+2023-06-06 18:20:47,023 [main] INFO logger_File - User clicked on add address button
+2023-06-06 18:20:47,733 [main] INFO logger_File - User Successfuly added Address
+2023-06-06 18:21:03,067 [main] INFO logger_File - User is on retail website
+2023-06-06 18:21:03,068 [main] INFO logger_File - Actual Title: React App = Expected Title: React App
+2023-06-06 18:21:03,733 [main] INFO logger_File - User clicked on signin button
+2023-06-06 18:21:04,693 [main] INFO logger_File - This is the email user entered: fardeenTester@tekschool.com , This is the password user enterd: Fardeen@123
+2023-06-06 18:21:04,967 [main] INFO logger_File - User clicked on login button
+2023-06-06 18:21:05,226 [main] INFO logger_File - User is logged into account
+2023-06-06 18:21:05,630 [main] INFO logger_File - User Clicked on account button
+2023-06-06 18:21:06,390 [main] INFO logger_File - User clicked on address edit button
+2023-06-06 18:21:08,370 [main] INFO logger_File - User filled the address info
+2023-06-06 18:21:08,765 [main] INFO logger_File - User clicked on update button
+2023-06-06 18:21:09,378 [main] INFO logger_File - User Address Updated Successfuly
+2023-06-06 18:21:23,671 [main] INFO logger_File - User is on retail website
+2023-06-06 18:21:23,672 [main] INFO logger_File - Actual Title: React App = Expected Title: React App
+2023-06-06 18:21:24,428 [main] INFO logger_File - User clicked on signin button
+2023-06-06 18:21:25,270 [main] INFO logger_File - This is the email user entered: fardeenTester@tekschool.com , This is the password user enterd: Fardeen@123
+2023-06-06 18:21:25,562 [main] INFO logger_File - User clicked on login button
+2023-06-06 18:21:25,673 [main] INFO logger_File - User is logged into account
+2023-06-06 18:21:26,060 [main] INFO logger_File - User Clicked on account button
+2023-06-06 18:21:26,339 [main] INFO logger_File - User clicked on address remove button
+2023-06-06 18:21:26,339 [main] INFO logger_File - User removed Address Details
