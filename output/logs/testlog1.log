@@ -364,3 +364,9 @@
 2023-06-06 18:50:57,952 [main] INFO logger_File - User selected the drop off service
 2023-06-06 18:50:58,247 [main] INFO logger_File - User clicked on return order button
 2023-06-06 18:50:58,281 [main] INFO logger_File - Return was successful
+2023-06-07 07:36:00,508 [main] INFO logger_File - User is on retail website
+2023-06-07 07:36:00,546 [main] INFO logger_File - Actual Title: React App = Expected Title: React App
+2023-06-07 07:36:00,759 [main] INFO logger_File - User clicked on signin button
+2023-06-07 07:36:01,301 [main] INFO logger_File - This is the email user entered: fardeenTester@tekschool.com , This is the password user enterd: Fardeen@123
+2023-06-07 07:36:01,397 [main] INFO logger_File - User clicked on login button
+2023-06-07 07:36:01,658 [main] INFO logger_File - User is logged into account
